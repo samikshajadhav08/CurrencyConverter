@@ -21,5 +21,3 @@ This project fetches live exchange rates and allows users to convert between dif
 - **[Currency API](https://github.com/fawazahmed0/currency-api)** – Exchange rates  
 
 ---
-
-## 📂 Project Structure  
